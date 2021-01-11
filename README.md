@@ -1,1 +1,1 @@
-# usingGit
+# random color generator
